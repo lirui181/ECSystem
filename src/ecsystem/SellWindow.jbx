@@ -1,0 +1,63 @@
+[PropertyInfo]
+c,java.awt.GridBagConstraints,false,false, , ,false,<default>
+con,java.awt.Container,false,false, , ,false,<default>
+db,ecsystem.DBManager,false,false, , ,false,<default>
+flow,java.awt.FlowLayout,false,false, , ,false,<default>
+gbc,java.awt.GridBagLayout,false,false, , ,false,<default>
+JBtn1,javax.swing.JButton,false,false, , ,false,<default>
+JBtn2,javax.swing.JButton,false,false, , ,false,<default>
+JBtn3,javax.swing.JButton,false,false, , ,false,<default>
+JBtn4,javax.swing.JButton,false,false, , ,false,<default>
+JBtn5,javax.swing.JButton,false,false, , ,false,<default>
+JCheck1,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCheck2,javax.swing.JCheckBox,false,false, , ,false,<default>
+JCom1,javax.swing.JComboBox,false,false, , ,false,<default>
+JCom2,javax.swing.JComboBox,false,false, , ,false,<default>
+JCom3,javax.swing.JComboBox,false,false, , ,false,<default>
+JCom4,javax.swing.JComboBox,false,false, , ,false,<default>
+JLab1,javax.swing.JLabel,false,false, , ,false,<default>
+JLab10,javax.swing.JLabel,false,false, , ,false,<default>
+JLab101,javax.swing.JLabel,false,false, , ,false,<default>
+JLab11,javax.swing.JLabel,false,false, , ,false,<default>
+JLab12,javax.swing.JLabel,false,false, , ,false,<default>
+JLab13,javax.swing.JLabel,false,false, , ,false,<default>
+JLab131,javax.swing.JLabel,false,false, , ,false,<default>
+JLab2,javax.swing.JLabel,false,false, , ,false,<default>
+JLab3,javax.swing.JLabel,false,false, , ,false,<default>
+JLab31,javax.swing.JLabel,false,false, , ,false,<default>
+JLab4,javax.swing.JLabel,false,false, , ,false,<default>
+JLab5,javax.swing.JLabel,false,false, , ,false,<default>
+JLab6,javax.swing.JLabel,false,false, , ,false,<default>
+JLab7,javax.swing.JLabel,false,false, , ,false,<default>
+JLab71,javax.swing.JLabel,false,false, , ,false,<default>
+JLab8,javax.swing.JLabel,false,false, , ,false,<default>
+JLab9,javax.swing.JLabel,false,false, , ,false,<default>
+jpane,javax.swing.JTabbedPane,false,false, , ,false,<default>
+JText1,javax.swing.JTextField,false,false, , ,false,<default>
+JText10,javax.swing.JTextField,false,false, , ,false,<default>
+JText101,javax.swing.JTextField,false,false, , ,false,<default>
+JText11,javax.swing.JTextField,false,false, , ,false,<default>
+JText12,javax.swing.JTextField,false,false, , ,false,<default>
+JText13,javax.swing.JTextField,false,false, , ,false,<default>
+JText131,javax.swing.JTextField,false,false, , ,false,<default>
+JText2,javax.swing.JTextField,false,false, , ,false,<default>
+JText3,javax.swing.JTextField,false,false, , ,false,<default>
+JText31,javax.swing.JTextField,false,false, , ,false,<default>
+JText4,javax.swing.JTextField,false,false, , ,false,<default>
+JText5,javax.swing.JTextField,false,false, , ,false,<default>
+JText6,javax.swing.JTextField,false,false, , ,false,<default>
+JText7,javax.swing.JTextField,false,false, , ,false,<default>
+JText71,javax.swing.JTextField,false,false, , ,false,<default>
+JText8,javax.swing.JTextField,false,false, , ,false,<default>
+JText9,javax.swing.JTextField,false,false, , ,false,<default>
+pan1,javax.swing.JPanel,false,false, , ,false,<default>
+pan2,javax.swing.JPanel,false,false, , ,false,<default>
+pan3,javax.swing.JPanel,false,false, , ,false,<default>
+pan4,javax.swing.JPanel,false,false, , ,false,<default>
+pan5,javax.swing.JPanel,false,false, , ,false,<default>
+rs,java.sql.ResultSet,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

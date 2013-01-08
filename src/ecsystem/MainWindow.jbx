@@ -1,0 +1,28 @@
+[PropertyInfo]
+con,java.awt.Container,false,false, , ,false,<default>
+enable,String,false,false, , ,true,<default>
+f,java.awt.Font,false,false, , ,false,<default>
+g,java.awt.Font,false,false, , ,false,<default>
+JMe1,javax.swing.JMenu,false,false, , ,false,<default>
+JMe2,javax.swing.JMenu,false,false, , ,false,<default>
+JMe3,javax.swing.JMenu,false,false, , ,false,<default>
+JMe4,javax.swing.JMenu,false,false, , ,false,<default>
+JMe5,javax.swing.JMenu,false,false, , ,false,<default>
+jMenuBar,javax.swing.JMenuBar,false,false, , ,false,<default>
+JMi1,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi10,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi11,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi2,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi3,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi4,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi5,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi6,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi7,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi8,javax.swing.JMenuItem,false,false, , ,false,<default>
+JMi9,javax.swing.JMenuItem,false,false, , ,false,<default>
+pan99,ecsystem.BackPanel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
